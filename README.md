@@ -33,6 +33,10 @@ http://ryan-m-cooper.com/blog/gps-points-to-line-segments.html
 
 ## networkx
 
+### 0 : do zrobienia 
+
+https://youtu.be/7NWeLuG8tVo
+
 ### 1 graph networkx drawing.ipynb
 
 
