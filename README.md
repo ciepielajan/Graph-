@@ -33,27 +33,26 @@ http://ryan-m-cooper.com/blog/gps-points-to-line-segments.html
 
 ## networkx
 
-### 1
+### 1 graph networkx drawing.ipynb
+
 
 https://networkx.org/documentation/stable/tutorial.html
-
-graph networkx drawing.ipynb
 
 https://colab.research.google.com/drive/1WKrIvC2K_ymXwsigw_rQz8WvmGzOb4u_?usp=sharing
 
 
-### 2
+### 2 Generate network graph using Python and matplotlib.ipynb
 
 https://pythonmatplotlibtips.blogspot.com/2018/11/network-graph-python-matplotlib.html
 
 https://colab.research.google.com/drive/1_pgQDnruykwlcnaIA9_4MxuCqcpoKfE_?usp=sharing
 
 
-### 3
+
+
+### 3 networkx GoT_Network.ipynb
 
 https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
-
-networkx GoT_Network.ipynb
 
 https://colab.research.google.com/drive/1FVWm0XId-V1wXdU_o-Jw2k_kGE8fmhc7?usp=sharing
 
