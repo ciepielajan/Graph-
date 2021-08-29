@@ -1,7 +1,6 @@
 # Graph
 
 
-
 ## geo network
 ### rozgrzewka
 
