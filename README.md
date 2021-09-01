@@ -61,4 +61,9 @@ https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
 https://colab.research.google.com/drive/1FVWm0XId-V1wXdU_o-Jw2k_kGE8fmhc7?usp=sharing
 
 
+### 4 networkx with coordinate
 
+https://stackoverflow.com/a/11809184
+
+networkx with coordinate.ipynb
+https://colab.research.google.com/drive/1JssBAyo3V_8RizMoQxYsSJl-BQS8Yc3j?usp=sharing
