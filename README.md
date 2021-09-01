@@ -67,3 +67,6 @@ https://stackoverflow.com/a/11809184
 
 networkx with coordinate.ipynb
 https://colab.research.google.com/drive/1JssBAyo3V_8RizMoQxYsSJl-BQS8Yc3j?usp=sharing
+
+![](/img/1.png)
+
